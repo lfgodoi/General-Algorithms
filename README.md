@@ -1,2 +1,2 @@
 # general-algorithms
-Source codes used for various purposes.
+Algorithms that can be used as functions within other projects.
